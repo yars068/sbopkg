@@ -408,3 +408,5 @@ python2-suds=suds-jurko
 IoskeleyMono=fonts-IoskeleyMono
 sqlparse=python3-sqlparse
 asgiref=python3-asgiref
+pencil3=pencil
+pyliblo=python3-pyliblo
